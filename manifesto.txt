@@ -1,0 +1,4 @@
+--------------------------------
+Open Source Manifesto
+--------------------------------
+I use Git. For me, freedom means freedom to learn. I would like to build a useful app and share it with everyone.
